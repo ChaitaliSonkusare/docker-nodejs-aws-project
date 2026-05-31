@@ -54,6 +54,4 @@ This project demonstrate deployment of 2-tier Node.js web app using Docker Conta
 - GitHub project management
 - Cloud infrastructure basics
 
-# Main Heading
-## Sub Heading
-### Smaller Heading
+
